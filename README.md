@@ -6,11 +6,8 @@ Je suis un développeur enthousiaste, toujours à la recherche de nouveaux défi
 Mon langage de prédilection est **Python**, que j'utilise pour une variété de projets allant de l'automatisation de tâches à la création de logiciels plus complexes. 
 
 **Mes centres d'intérêt :**
-- Nouvelles technologies
-- Design
-- Fitness
-- running
-- séries/films d’animation
+Nouvelles technologies,DesignFitness
+running, séries/films d’animation
   
 - **Technologies utilisées** : Python, Pandas, NumPy, Scikit-learn, NLTK
 
