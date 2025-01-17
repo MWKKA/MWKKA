@@ -1,16 +1,36 @@
-## Hi there 👋
+# 💻 Bienvenue sur mon GitHub !
 
-<!--
-**MWKKA/MWKKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
 
-Here are some ideas to get you started:
+Je suis un développeur enthousiaste, toujours à la recherche de nouveaux défis. 
+Mon langage de prédilection est **Python**, que j'utilise pour une variété de projets allant de l'automatisation de tâches à la création de logiciels plus complexes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mes centres d'intérêt :**
+- Nouvelles technologies
+- Design
+- Fitness
+- running
+- séries/films d’animation
+  
+- **Technologies utilisées** : Python, Pandas, NumPy, Scikit-learn, NLTK
+
+- **Fonctionnalités** :
+  - Traitement et analyse de grandes quantités de données
+  - Automatisation des rapports
+  - Machine Learning
+  - Web scraping
+
+## 🛠️ Compétences et technologies
+
+- **Langages** : Python, PHP, JavaScript
+- **Frameworks** : Django (en cours d'apprentissage), Flask
+- **Bases de données** : MySQL, PostgreSQL
+- **Outils** : Git, Docker (en exploration)
+- **Autres** : HTML, CSS, APIs RESTful
+
+## 💬 Let's connect!
+
+- **LinkedIn** : [Alexandre Fantin](https://www.linkedin.com/in/alexandre-fantin-74b525185/)
+- **E-mail** : alexandre.fantiin@gmail.com
+
+Merci d'avoir visité mon GitHub ! 😊
