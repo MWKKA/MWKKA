@@ -20,9 +20,9 @@ running, séries/films d’animation
 ## 🛠️ Compétences et technologies
 
 - **Langages** : Python, PHP, JavaScript
-- **Frameworks** : Django (en cours d'apprentissage), Flask
+- **Frameworks** : Django, Flask
 - **Bases de données** : MySQL, PostgreSQL
-- **Outils** : Git, Docker (en exploration)
+- **Outils** : Git, Docker
 - **Autres** : HTML, CSS, APIs RESTful
 
 ## 💬 Let's connect!
