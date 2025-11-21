@@ -5,7 +5,6 @@
 Je suis un développeur enthousiaste, toujours à la recherche de nouveaux défis. 
 Mon langage de prédilection est **Python**, que j'utilise pour une variété de projets allant de l'automatisation de tâches à la création de logiciels plus complexes.
 
-🦾Et à la recherche d'une alternance dans le domaine de l'ingénierie de la donnée pour Septembre 2025 🦾
 
 **Mes centres d'intérêt :**
 Nouvelles technologies,Design, Fitness
